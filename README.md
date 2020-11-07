@@ -8,3 +8,5 @@
 
 ### Websites
 [Ziro-Bot](https://ziro-botdev.glitch.me/)
+> RAGE - Soon
+> Yupy - Soon
