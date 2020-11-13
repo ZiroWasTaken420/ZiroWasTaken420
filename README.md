@@ -3,7 +3,7 @@
 
 ![CuteGiflol](https://i.imgur.com/ZzDn8k3.gif)
 
-<p align="center">
+<p>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZiroWasTaken420&show_icons=true&include_all_commits=true&theme=material-palenight"/>
 </p>
 
