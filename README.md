@@ -16,4 +16,6 @@
 </p>
 
 ### Websites
-[Ziro-Bot](https://ziro-botdev.glitch.me/)
+[Ziro-Bot](http://zirobot.rf.gd/),
+[RAGE](http://ragebot.xyz/),
+[Yupy](http://yupy.ml/?i=1)
