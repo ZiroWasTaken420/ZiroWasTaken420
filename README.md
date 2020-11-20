@@ -23,4 +23,4 @@
 [Yupy](http://yupy.ml/?i=1)
 
 ## Gif
-![CuteGiflol](https://i.imgur.com/ZzDn8k3.gif)
+![Gif](https://i.imgur.com/ZzDn8k3.gif)
