@@ -10,7 +10,7 @@
 ## Stats
 
 <a href="https://top.gg/bot/752242570532225064">
-    <img src="https://top.gg/api/widget/752242570532225064.svg" alt="Ziro-Bot" />
+    <img align="center" src="https://top.gg/api/widget/752242570532225064.svg" alt="Ziro-Bot" />
 </a>
 
 <p>
