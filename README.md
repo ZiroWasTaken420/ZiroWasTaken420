@@ -17,6 +17,8 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZiroWasTaken420&show_icons=true&include_all_commits=true&theme=material-palenight"/>
 </p>
 
+<a href="https://10fastfingers.com/typing-test/english"><img src="http://img.10fastfingers.com/badge/typing-test_1_CS.png" alt="Typing Test" /></a><p>Visit the <a href="https://10fastfingers.com/typing-test/english">Typing Test</a> and try!</p>
+
 ### Websites
 [Ziro-Bot](http://zirobot.rf.gd/),
 [RAGE](http://ragebot.xyz/),
