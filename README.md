@@ -1,5 +1,5 @@
 # Ziro
-> I'm a Developer lol
+![Discord](https://discord.c99.nl/widget/theme-1/484701017015975936.png)
 
 ## My Bots
 [Ziro-Bot](https://discord.com/api/oauth2/authorize?client_id=752242570532225064&permissions=8&scope=bot),
